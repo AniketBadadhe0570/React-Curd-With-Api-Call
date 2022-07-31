@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "roll": 1,
+      "name": "Aniket Sunil Badadhe",
+      "city": "Pune"
+    },
+    {
+      "id": 2,
+      "roll": 2,
+      "name": "Manoj",
+      "city": "Pune"
+    },
+    {
+      "id": 3,
+      "roll": 3,
+      "name": "Suraj",
+      "city": "Pune"
+    },
+    {
+      "roll": "4",
+      "name": "Siddhant",
+      "city": "Mumbai",
+      "id": 4
+    }
+  ]
+}
